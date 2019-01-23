@@ -13,7 +13,7 @@ _A site for my programming protfolio, which will be updated as I make progress._
 * _Download the site_
 * _Run it in a web browser_
 * _Or:_
-* _github pages on (TBD_
+* _github pages on https://silvermistshadow.github.io/portfolio/ _
 
 
 ## Known Bugs
