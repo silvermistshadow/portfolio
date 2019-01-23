@@ -25,3 +25,7 @@ img {
 .about-me li {
   padding-left: 4px;
 }
+
+.fancy {
+  font-style: oblique;
+}
